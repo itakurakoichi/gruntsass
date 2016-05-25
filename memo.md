@@ -1,6 +1,6 @@
 # Summary
 
-- use grunt + sass
+- Use: Grunt, Sass, Assemble
 
 
 ## Tips
